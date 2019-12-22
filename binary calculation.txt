@@ -1,0 +1,58 @@
+#Len = Length
+
+square = 'Square'
+len(square)
+len(word) + len(square)
+
+cube = [10, 20, 30, 45, 50]
+cube 
+cube[3] = 40
+cube 
+cube[5] = 60 #error out of range
+cube.append(60)
+cube.append(4+10+20+36)
+
+programA = ['A', 'B', 'C', 'D', 'E']
+programB = ['a', 'b', 'c', 'd', 'e']
+programC = programA + programB
+programC
+programD = [1,2,3,4,5]
+programC = programC + programD
+programC[9:] = []
+programC[5:9] = programD
+programC
+
+
+len(programC)
+
+
+a = [10, 20, 30,40, 50 ]
+b = [60, 70, 80, 90, 100]
+c = [110, 120, 130, 140, 150]
+x = [a, b, c]
+x
+
+x[0][]
+x[][3]
+x[1][2]
+x[][]
+x[0][0]
+x[1][1]
+x[]
+
+
+ >>> Fibonacci
+
+ char       Dec      Binary          Hex
+ H =>        72=>     01001000       48
+ e =>         101=>    01100101      65
+ l =>        108=>    01101100       6C
+ o =>        111=>    01101111       6F
+ space =>             00100000       20
+ W =>        119=>    01010111       57
+ o =>        111=>    01101111       6F
+ r =>        114=>    01110010       72
+ l =>        108=>    01101100       6C
+ d =>        100=>    01100100       64
+
+ Python Programming 
